@@ -1,4 +1,4 @@
-'''C
+```c
 #define _CRT_SECURE_NO_WARNINGS
 #include "raylib.h"
 #include <stdlib.h>
@@ -815,4 +815,4 @@ int main() {
     CloseWindow();
     return 0;
 }
-'''
+```
