@@ -1,4 +1,4 @@
-'''c
+'''C
 #define _CRT_SECURE_NO_WARNINGS
 #include "raylib.h"
 #include <stdlib.h>
